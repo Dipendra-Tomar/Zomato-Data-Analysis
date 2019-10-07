@@ -1,2 +1,2 @@
-# Zomato-Data-Analysis
-Shiny Dashboard on Zomato Data
+# Zomato-Restaurants-Data-Analysis
+Shiny Dashboard on Zomato Restaurants Data
